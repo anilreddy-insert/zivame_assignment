@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_text_size">22sp</dimen>
+    <dimen name="gadgets_margin">20dp</dimen>
+    <dimen name="gadgets_cardview_corner_radius">12dp</dimen>
+    <dimen name="gadgets_cardview_side_margin">1dp</dimen>
+    <dimen name="gadgets_cardview_top_margin">10dp</dimen>
+    <dimen name="gadgets_layout_item_padding">16dp</dimen>
+    <dimen name="gadgets_image_size">100dp</dimen>
+    <dimen name="gadgets_textview_left_margin">35dp</dimen>
+    <dimen name="gadgets_textview_medium_size">18sp</dimen>
+    <dimen name="gadgets_textview_small_size">16sp</dimen>
+    <dimen name="gadgets_textview_rating_bar_height">50dp</dimen>
+    <dimen name="gadgets_price_button_corner">50dp</dimen>
+    <dimen name="gadgets_price_button_width">70dp</dimen>
+    <dimen name="gadgets_spark_button_size">30dp</dimen>
+</resources>
